@@ -496,17 +496,17 @@ a {
   margin-top: 10%;
 }
 #fun-facts-wrapper {
-  margin-left: -10px;
+  margin-left: 50px;
   margin-right: -10px;
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 5rem;
 }
 .fact-wrapper {
   width: 25%;
   position: relative;
   min-height: 1px;
-  padding: 0 10px;
 }
 .fact {
   padding-right: 40%;
